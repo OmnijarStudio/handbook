@@ -1,3 +1,3 @@
-# Artisan's Guide 
-## To Service Design, Development, and Delivery
+# Omnijar Studio Handbook 
+The Omnijar Studio handbook on culture, design, development, and delivery.
 
